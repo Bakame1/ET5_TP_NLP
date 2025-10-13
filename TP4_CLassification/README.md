@@ -132,13 +132,11 @@ Pourquoi augmenter de 100 à 256 ?
     256 dimensions : Représentation plus riche, capture mieux les relations entre mots (synonymes, antonymes, contexte)
 
 Impact : Plus grande = meilleure capacité à distinguer les mots similaires, mais plus de paramètres à entraîner.
-
 ​
 2. hidden_size (Taille de l'état caché)
 
 Définition : C'est le nombre de neurones dans chaque couche LSTM, qui définit la capacité de mémoire du réseau.
 
-​
 
 Analogie : C'est comme la taille de la "mémoire de travail" du modèle. Plus c'est grand, plus le modèle peut retenir d'informations complexes sur la séquence.
 
