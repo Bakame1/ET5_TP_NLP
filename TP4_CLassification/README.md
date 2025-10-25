@@ -87,4 +87,5 @@ Ce qui se passe pendant l'entraînement :
 .venv\Scripts\python.exe sentiment_analysis_classification_cnn_lstm.py --model lstm --train datasets/MMNLU_FR/train.csv --valid datasets/MMNLU_FR/dev.csv --test datasets/MMNLU_FR/test.csv --epochs 20
 
 ...
-123
+456
+789
